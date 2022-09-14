@@ -1,1 +1,3 @@
 # dhcp-container
+
+./build.sh
