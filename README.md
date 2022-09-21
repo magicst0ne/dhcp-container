@@ -1,3 +1,3 @@
-# dhcp-container
+# dhcpd-container
 
 ./build.sh
