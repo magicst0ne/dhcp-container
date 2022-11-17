@@ -1,3 +1,5 @@
+# syntax = docker/dockerfile:experimental
+
 FROM --platform=${BUILDPLATFORM} alpine:latest
 LABEL maintainer="Stone <github.com/magicst0ne>"
 
